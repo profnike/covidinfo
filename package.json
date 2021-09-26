@@ -1,6 +1,6 @@
 {
   "name": "covidchecker",
-  "homepage": "https://profnike.github.io/",
+  "homepage": "https://profnike.github.io/covidinfo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
